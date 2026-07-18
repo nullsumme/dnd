@@ -1,4 +1,4 @@
-# 🥋 Perrin – Mönch
+# 🧙 Zanna – Magierin
 
 ## Inhaltsverzeichnis
 
@@ -62,12 +62,10 @@ Fertigkeiten zeigen, worin dein Charakter besonders gut ist.
 
 Ein paar Beispiele:
 
-- **Athletik** → Klettern, Springen
-- **Akrobatik** → Balancieren
-- **Heimlichkeit** → Schleichen
-- **Wahrnehmung** → Etwas entdecken
 - **Arkane Kunde** → Wissen über Magie
-- **Überreden** → Andere überzeugen
+- **Geschichte** → Wissen über vergangene Ereignisse
+- **Nachforschungen** → Hinweise finden
+- **Wahrnehmung** → Etwas entdecken
 
 Du musst **nicht** wissen, welche Fertigkeit verwendet wird.
 
@@ -91,8 +89,29 @@ Je höher dein Attribut ist, desto größer ist der Bonus.
 
 Beispiel:
 
-- Geschicklichkeit **17** → **+3**
-- Mit Speeren geübt → **+2**
+- Intelligenz **17**
+- Modifikator **+3**
+
+---
+
+### Übungsbonus
+
+Ist dein Charakter in etwas geübt, kommt zusätzlich der **Übungsbonus** dazu.
+
+Auf Stufe 1 beträgt dieser:
+
+**+2**
+
+---
+
+### Beispiel
+
+Zanna wirkt **Strahl des Frosts**.
+
+Sie benutzt **Intelligenz**.
+
+- Intelligenz 17 → **+3**
+- Mit Zaubern geübt → **+2**
 
 Der Angriff lautet also:
 
@@ -116,10 +135,9 @@ Eine Fertigkeitsprobe entscheidet, ob deinem Charakter etwas gelingt.
 
 Zum Beispiel:
 
-- Klettern
-- Schleichen
-- Überzeugen
-- Nach Spuren suchen
+- Nach einem Geheimfach suchen
+- Alte Runen lesen
+- Magisches Wissen abrufen
 
 Auch hier gilt:
 
@@ -149,9 +167,9 @@ Der Spielleiter sagt dir immer, welcher Rettungswurf benutzt wird.
 
 Trefferpunkte sind deine Lebenspunkte.
 
-Solange du Trefferpunkte hast, kannst du weiterkämpfen.
+Magier besitzen nur wenige Trefferpunkte.
 
-Sinken sie auf **0**, bist du kampfunfähig.
+Versuche deshalb, Gegner auf Abstand zu halten.
 
 ---
 
@@ -183,6 +201,48 @@ Ein Angriff läuft immer gleich ab.
 2. Trifft der Angriff?
 3. Falls ja:
 4. Schaden würfeln
+
+---
+
+## Zaubertricks und Zauber
+
+### Zaubertricks
+
+Zaubertricks kosten **keine Zauberplätze**.
+
+Du kannst sie beliebig oft einsetzen.
+
+Beispiel:
+
+- Strahl des Frosts
+
+---
+
+### Zauber
+
+Zauber des 1. Grades verbrauchen **Zauberplätze**.
+
+Diese sind begrenzt.
+
+Beispiele:
+
+- Magisches Geschoss
+- Magierrüstung
+- Schild
+
+Nutze sie nur, wenn sie wirklich gebraucht werden.
+
+---
+
+## Reaktion
+
+Manche Zauber können außerhalb deines Zuges gewirkt werden.
+
+Ein Beispiel ist **Schild**.
+
+Wenn du angegriffen wirst, kannst du den Zauber als Reaktion wirken.
+
+Der Spielleiter sagt dir, wann das möglich ist.
 
 ---
 
@@ -226,100 +286,97 @@ Der Spielleiter erklärt dir den Rest.
 
 ## Deine Rolle
 
-Du bist der **Mönch**.
+Du bist die **Magierin**.
 
-Du bist schnell, beweglich und vielseitig.
+Du kämpfst lieber aus sicherer Entfernung.
 
-Du kannst sowohl im Nahkampf kämpfen als auch deine Gruppe unterstützen.
+Du verursachst mit Zaubern Schaden und besitzt einige mächtige Spezialzauber.
+
+Du solltest möglichst nicht direkt neben den Gegnern stehen.
 
 ---
 
 ## Deine wichtigsten Werte
 
-### Geschicklichkeit
+### Intelligenz
 
 Dein wichtigstes Attribut.
 
-Damit greifst du an und bist schwerer zu treffen.
+Fast alle deine Zauber benutzen Intelligenz.
 
 ---
 
-### Weisheit
+### Trefferpunkte
 
-Viele deiner besonderen Fähigkeiten nutzen Weisheit.
+Du hast weniger Trefferpunkte als die anderen.
 
-Außerdem hilft sie dir, Gefahren früh zu erkennen.
+Versuche deshalb Abstand zu halten.
 
 ---
 
 ### Geschwindigkeit
 
-Du bewegst dich schnell über das Schlachtfeld.
-
-Nutze das aus.
+Nutze deine Bewegung, um Gegner auf Abstand zu halten.
 
 ---
 
-## Deine Ausrüstung
+## Deine Zauber
 
-### Wurfspeer
+### Strahl des Frosts ⭐
 
 Dein Standardangriff.
 
-Kann im Nahkampf oder auf Entfernung benutzt werden.
+- Zaubertrick
+- Kostet keine Zauberplätze
+- Kann beliebig oft eingesetzt werden
+
+Den benutzt du fast jede Runde.
 
 ---
 
-### Waffenloser Schlag
-
-Auch deine Fäuste sind gefährliche Waffen.
-
----
-
-## Deine Fähigkeiten
-
-### Heilige Flamme
-
-Ein Zaubertrick.
-
-- Kostet keine Zauberplätze.
-- Kann beliebig oft eingesetzt werden.
-- Gut gegen entfernte Gegner.
-
-Der Gegner versucht mit einem Rettungswurf auszuweichen.
-
----
-
-### Segen
+### Magisches Geschoss ✨
 
 Ein Zauber des 1. Grades.
 
-Damit stärkst du bis zu drei Verbündete.
+Er trifft **immer**.
 
-Sie erhalten einen kleinen Bonus auf Angriffe und Rettungswürfe.
+Benutze ihn, wenn du einen Gegner unbedingt treffen möchtest.
 
-Segen benötigt **Konzentration**.
+---
 
-Das bedeutet:
+### Schild 🛡️
 
-- Du kannst immer nur einen Konzentrationszauber gleichzeitig aufrechterhalten.
-- Wenn du einen anderen Konzentrationszauber wirkst, endet Segen.
+Kann als **Reaktion** gewirkt werden.
+
+Wenn dich ein Gegner trifft, kann dieser Zauber den Angriff manchmal doch noch verhindern.
+
+Der Spielleiter erinnert dich daran.
+
+---
+
+### Magierrüstung
+
+Verbessert deine Verteidigung.
+
+Im Trainingskampf nehmen wir einfach an, dass sie bereits aktiv ist.
+
+Du musst dich darum nicht kümmern.
 
 ---
 
 ## Deine Standardrunde
 
-Die meisten Runden:
+Fast jede Runde:
 
-- Mit dem Speer angreifen.
+- Strahl des Frosts auf den nächsten Gegner wirken.
 
-Falls der Gegner weit entfernt steht:
+Nur wenn der Spielleiter es empfiehlt:
 
-- Heilige Flamme wirken.
+- Magisches Geschoss.
 
-Falls der Spielleiter es vorschlägt:
+Wenn dich ein Gegner trifft:
 
-- Zu Beginn Segen auf die Gruppe wirken.
+- Schild.
 
 ---
 
@@ -327,17 +384,8 @@ Falls der Spielleiter es vorschlägt:
 
 ## Runde 1
 
-Je nach Situation:
-
-**Variante A**
-
-- Segen auf die Gruppe wirken.
-
-oder
-
-**Variante B**
-
-- Mit dem Speer angreifen.
+- Abstand halten.
+- Strahl des Frosts wirken.
 
 ---
 
@@ -345,19 +393,23 @@ oder
 
 Fast jede Runde:
 
-- Speer benutzen.
+- Strahl des Frosts.
 
-Wenn ein Gegner weit entfernt ist:
+Falls ein Gegner unbedingt getroffen werden muss:
 
-- Heilige Flamme.
+- Magisches Geschoss.
+
+Falls dich ein Gegner trifft:
+
+- Schild.
 
 ---
 
 ## Deine Aufgabe
 
-- Unterstütze deine Gruppe.
-- Nutze deine Beweglichkeit.
-- Bleibe nicht unnötig stehen.
+- Bleibe hinter deinen Verbündeten.
+- Greife aus der Entfernung an.
+- Spare deine Zauberplätze.
 
 ---
 
@@ -365,36 +417,38 @@ Wenn ein Gegner weit entfernt ist:
 
 ## Standardzug
 
-- ✅ Speer benutzen
+- ✅ Abstand halten
+- ✅ Strahl des Frosts
 
 ---
 
-## Entfernte Gegner
+## Wenn ein Treffer wichtig ist
 
-- ✅ Heilige Flamme
+- ✅ Magisches Geschoss
 
 ---
 
-## Zu Kampfbeginn (optional)
+## Wenn du getroffen wirst
 
-- ✅ Segen
+- ✅ Schild
 
 ---
 
 ## Dein Zug
 
 1. 🚶 Bewegen
-2. ⚔️ Aktion
-3. ⭐ Bonusaktion (falls vorhanden)
+2. ✨ Zauber wirken
+3. Ende
 
 ---
 
 ## Merke dir
 
-- 🤸 Geschicklichkeit ist dein wichtigstes Attribut.
-- 🥋 Speer ist dein Standardangriff.
-- 🔥 Heilige Flamme kostet keine Zauberplätze.
-- ✨ Segen macht die ganze Gruppe stärker.
+- 📚 Intelligenz ist dein wichtigstes Attribut.
+- ❄️ Strahl des Frosts ist dein Standardangriff.
+- ✨ Magisches Geschoss trifft immer.
+- 🛡️ Schild schützt dich vor Angriffen.
+- ❤️ Bleibe hinter deinen Verbündeten.
 
 ---
 
